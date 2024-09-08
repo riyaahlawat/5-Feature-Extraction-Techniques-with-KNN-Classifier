@@ -1,6 +1,6 @@
 # 5-Feature-Extraction-Techniques-with-KNN-Classifier
 
-This repository demonstrates face recognition using various **feature extraction techniques** with a **K-Nearest Neighbors (KNN) classifier** on the **AT&T (ORL) dataset**. We implement and compare feature extraction methods including:
+This repository demonstrates face recognition using various **feature extraction techniques** with a **K-Nearest Neighbors (KNN) classifier (k = 5)** on the **AT&T (ORL) dataset**. We implement and compare feature extraction methods including:
 
 - **Convolutional Neural Networks (CNN)**
 - **Principal Component Analysis (PCA)**
